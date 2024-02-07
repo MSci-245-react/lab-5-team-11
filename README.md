@@ -97,3 +97,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+-# Getting Started with Create React App
++# opinion-ate
++
++An app for tracking reviews of dishes at different restaurants.
++
++Production: <(https://lab-5-team11.netlify.app)>
+
+ This project was bootstrapped with
+ [Create React App](https://github.com/facebook/create-react-app).
