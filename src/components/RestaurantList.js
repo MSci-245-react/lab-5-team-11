@@ -9,11 +9,11 @@ export function RestaurantList({loadRestaurants, restaurants}) {
 
   return (
     <ul>
-        {restaurants.map(restaurant => (
+      {restaurants.map(restaurant => (
         <li key={restaurant.id}>{restaurant.name}</li>
-        ))}
+      ))}
     </ul>
-    );
+  );
 }
 const mapStateToProps = state => ({
   restaurants: state.restaurants.records,
